@@ -1,3 +1,8 @@
+
+#### **python3实现版本**
+
+
+
 ## Preface
 
 GNU Make 太麻烦？Makefile 写起来太臃肿？头文件依赖生成搞不定？多核同时编译太麻烦？Emake 帮你解决这些问题：
