@@ -1,4 +1,4 @@
-#! /usr/bin/env python2
+#! /usr/bin/python
 # -*- coding: utf-8 -*-
 # ======================================================================
 #
@@ -27,6 +27,7 @@
 # 2017.08.16   skywind   new: cflag, cxxflag, sflag, mflag, mmflag
 # 2017.12.20   skywind   new: --abs=1 to tell gcc to print fullpath
 # 2020.11.11   aloneqd   new: python3版本
+# 2021.04.05   TD_Sky    set the script interpreter to /usr/bin/python
 #
 # ======================================================================
 import sys, time, os, io
