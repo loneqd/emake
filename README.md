@@ -31,8 +31,8 @@ Emake 是为快速开发而生的，最初版本在 2009年发布，多年间团
 #### Linux / Mac OS X: 
 
 ```bash
-wget http://skywind3000.github.io/emake/emake.py
-sudo python2 emake.py -i
+wget https://raw.githubusercontent.com/shjlone/emake/master/emake.py
+sudo python emake.py -i
 ```
 
 运行上面两条指令，十秒内完成安装。emake 会拷贝自己到 /usr/local/bin 下面，后面直接使用 emake 指令操作。
